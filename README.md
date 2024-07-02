@@ -20,7 +20,3 @@ Neste projeto, aprendi a utilizar diversas funcionalidades do Git e do GitHub, i
 ### Imagem
 ![Imagem de visualização do projeto](./imagens/project-view.png)
 
-### Como clonar o repositório
-Para clonar este repositório, execute o seguinte comando no terminal:
-```sh
-git clone https://github.com/seu-usuario/nome-do-repositorio.git
